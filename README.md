@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rand-albej
-- 👀 I’m interested in Application Development
+- 👀 I’m interested in AI, machine learning, and Application Development
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to learn new skills and collaborate on projects.
 - 📫 How to reach me E-mail:rand.albej@gmail.com.
